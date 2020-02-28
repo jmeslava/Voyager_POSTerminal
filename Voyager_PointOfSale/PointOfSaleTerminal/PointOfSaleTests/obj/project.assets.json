@@ -6818,11 +6818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\c#\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTests\\PointOfSaleTests.csproj",
+      "projectUniqueName": "E:\\c#\\Voyager_POSTerminal\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTests\\PointOfSaleTests.csproj",
       "projectName": "PointOfSaleTests",
-      "projectPath": "E:\\c#\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTests\\PointOfSaleTests.csproj",
+      "projectPath": "E:\\c#\\Voyager_POSTerminal\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTests\\PointOfSaleTests.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "E:\\c#\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTests\\obj\\",
+      "outputPath": "E:\\c#\\Voyager_POSTerminal\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6841,8 +6841,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\c#\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal.csproj": {
-              "projectPath": "E:\\c#\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal.csproj"
+            "E:\\c#\\Voyager_POSTerminal\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal.csproj": {
+              "projectPath": "E:\\c#\\Voyager_POSTerminal\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal.csproj"
             }
           }
         }

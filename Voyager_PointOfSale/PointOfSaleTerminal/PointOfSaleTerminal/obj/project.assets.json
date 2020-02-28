@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\c#\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal.csproj",
+      "projectUniqueName": "E:\\c#\\Voyager_POSTerminal\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal.csproj",
       "projectName": "PointOfSaleTerminal",
-      "projectPath": "E:\\c#\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal.csproj",
+      "projectPath": "E:\\c#\\Voyager_POSTerminal\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTerminal\\PointOfSaleTerminal.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "E:\\c#\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTerminal\\obj\\",
+      "outputPath": "E:\\c#\\Voyager_POSTerminal\\Voyager_PointOfSale\\PointOfSaleTerminal\\PointOfSaleTerminal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

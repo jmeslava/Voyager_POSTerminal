@@ -12,6 +12,7 @@ namespace PointOfSaleTerminalLibrary
         public abstract decimal calculate(int bulkAmount, decimal bulkPrice, int amount, decimal price);
     }
 
+    /// <summary>
     /// Implements functions from Compute to calculate a total price for a product.
     /// Both functions are named calculate but takes different parameters for products with/without bulk deals
     /// </summary>
@@ -56,9 +57,7 @@ namespace PointOfSaleTerminalLibrary
         private decimal C_BULK_PRICE = 5.00M;
         private decimal totalPrice = 0.00M;
 
-        /// <summary>
-        
-
+ 
         /// <summary>
         /// Function to adjust prices of existing products. Adjusts Single Unit prices only
         /// </summary>
